@@ -5,7 +5,8 @@
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplus/blob/aula04/img/Logo.png?raw=true" alt="Logo da alura plus"> </p>
 <p align="center">Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.</p>
 
-<p align="center">[Link](https://alura-plus-lzdavic.vercel.app) de deploy do site</p>
+## Deploy 
+* [Link](https://alura-plus-lzdavic.vercel.app) do site
 
 ## Tecnologias
 * HTML
